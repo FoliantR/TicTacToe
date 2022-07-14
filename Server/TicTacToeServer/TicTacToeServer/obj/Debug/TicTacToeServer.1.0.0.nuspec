@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TicTacToeServer</id>
+    <version>1.0.0</version>
+    <authors>TicTacToeServer</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="System.Text.Encoding.CodePages" version="6.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WPF" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Артем\source\TicTacToe\Server\TicTacToeServer\TicTacToeServer\bin\Debug\netcoreapp3.1\TicTacToeServer.runtimeconfig.json" target="lib\netcoreapp3.1\TicTacToeServer.runtimeconfig.json" />
+    <file src="C:\Users\Артем\source\TicTacToe\Server\TicTacToeServer\TicTacToeServer\bin\Debug\netcoreapp3.1\TicTacToeServer.dll" target="lib\netcoreapp3.1\TicTacToeServer.dll" />
+  </files>
+</package>

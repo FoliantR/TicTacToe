@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b4840094-fbcd-4642-9c95-7ffeefa6897a": {
+      "ProjectGuid": "b4840094-fbcd-4642-9c95-7ffeefa6897a",
+      "DisplayName": "TicTacToeServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
