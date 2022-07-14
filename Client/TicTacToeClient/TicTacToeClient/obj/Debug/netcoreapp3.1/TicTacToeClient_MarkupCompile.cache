@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Артем\source\TicTacToe\Client\TicTacToeClient\TicTacToeClient\obj\Debug\netcoreapp3.1\
+C:\Users\snowg\Desktop\TicTacToe\Client\TicTacToeClient\TicTacToeClient\obj\Debug\netcoreapp3.1\
 TicTacToeClient
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
-C:\Users\Артем\source\TicTacToe\Client\TicTacToeClient\TicTacToeClient\App.xaml
+C:\Users\snowg\Desktop\TicTacToe\Client\TicTacToeClient\TicTacToeClient\App.xaml
 3-1944485705
 11167786004
 91927509158
-192718473521
+192-563520384
 GameWindow.xaml;InviteWindow.xaml;MainWindow.xaml;
 
 False

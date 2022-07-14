@@ -1,15 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "wKgPNOaqDkuoHIfZOhZz43OcqzN85GAFWU2sUHkFBIRRFfKj2rfAfOiARKpZxxFdmw+P9/bzdT/cK6eOshvd7g==",
+  "dgSpecHash": "MAQR1GLOiGyNvPsmr1sJnDN5EDC4WzFrbNvGUL2ynvtVy9fMXlBwBalQ9J/bZ4W8g1c8F+/9pjQyIuJoQk6JoA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Артем\\source\\TicTacToe\\Client\\TicTacToeClient\\TicTacToeClient\\TicTacToeClient.csproj",
+  "projectFilePath": "C:\\Users\\snowg\\Desktop\\TicTacToe\\Client\\TicTacToeClient\\TicTacToeClient\\TicTacToeClient.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Артем\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
-    "C:\\Users\\Артем\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512",
-    "C:\\Users\\Артем\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
-    "C:\\Users\\Артем\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
-    "C:\\Users\\Артем\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
-    "C:\\Users\\Артем\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+    "C:\\Users\\snowg\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\snowg\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }
